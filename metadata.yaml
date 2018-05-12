@@ -1,0 +1,53 @@
+_repo: The-heart-of-happy-hollowA-collection-of-stories_24716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: 'A historic collection of perceptive tales from a luminary of nineteenth-century
+  literature First published in 1904, The Heart of Happy Hollow features sixteen short
+  stories that provide rare glimpses into the lives of African Americans after the
+  Civil War. Through characters ranging from schemers to preachers, Paul Laurence
+  Dunbar crafted a rare snapshot of long-lost communities and their poignant sensibilities.
+  An author who achieved remarkable versatility, he draws on language that is by turns
+  folksy and formal, putting forth controversial vernacular dialects as easily as
+  he delivers a hauntingly poetic scene. In this collection, readers meet an influential
+  entrepreneur who must navigate a treacherous political landscape; a Southern spiritual
+  leader who must learn to accept the mores of his son, who was educated in the North;
+  a reporter who restores hope in Santa Claus to a group of destitute siblings; and
+  a host of other unique men and women giving voice to timeless themes.Dunbar''s work
+  has deservingly experienced a recent revival among commercial and scholarly audiences
+  alike, and noted scholar Eleanor Alexander, author of the critically acclaimed biography
+  Lyrics of Sunshine and Shadow: The Courtship and Marriage of Paul Laurence Dunbar
+  and Alice Ruth Moore further contextualizes Dunbar''s contributions to American
+  letters. A captivating read, The Heart of Happy Hollow will introduce more book
+  lovers to this revered storyteller and visionary.'
+gutenberg_issued: '2008-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The Scapegoat -- One Christmas at Shiloh -- The Mission of Mr. Scatters
+  -- A Matter of Doctrine -- Old Abe's Conversion -- The Race Question -- A Defender
+  Of The Faith -- Cahoots -- The Promoter -- The Wisdom of Silence -- The Triumph
+  of Ol' Mis' Pease -- The Lynching of Jube Benson -- Schwalliger's Philanthropy --
+  The Interference of Patsy Ann -- The Home-Coming of 'Rastus Smith -- The Boy and
+  the Bayonet.
+title: 'The heart of happy hollow
+
+  A collection of stories'
+url: http://www.gutenberg.org/ebooks/24716
